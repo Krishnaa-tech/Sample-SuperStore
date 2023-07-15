@@ -2,8 +2,8 @@
 This repository aims towards the task of the Project of the Internship, where we  brainstorm the SuperStore Sales dataset. <br>
 Applied different Visualization techniques on the dataset and used various libraries such as Plotly, etc., also visualized the data points through PowerBI to study the Profit and Sales Analysis closely & understood the customer sales trends, which will help the supermarket to optimize the purchase. <br>
 The repository contains the following files:
-- [Dataset]()
-- [Code file]()
+- [Dataset](https://github.com/Krishnaa-tech/Sample-SuperStore/blob/b4227aacc4ad5b0129f6f07c95c240e0f2642430/SampleSuperstore.csv)
+- [Code file](https://github.com/Krishnaa-tech/Sample-SuperStore/blob/b4227aacc4ad5b0129f6f07c95c240e0f2642430/SuperStore.ipynb)
 - [Dashboard]()
 - [Presentation]()
   
