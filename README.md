@@ -5,7 +5,7 @@ The repository contains the following files:
 - [Dataset](https://github.com/Krishnaa-tech/Sample-SuperStore/blob/b4227aacc4ad5b0129f6f07c95c240e0f2642430/SampleSuperstore.csv)
 - [Code file](https://github.com/Krishnaa-tech/Sample-SuperStore/blob/b4227aacc4ad5b0129f6f07c95c240e0f2642430/SuperStore.ipynb)
 - [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzYzZmJhZTItODE4NC00YjNkLWIyMTctYWJmZTViZDk3MThjIiwidCI6IjE5MWRkNjBkLTA5MGEtNDQ1OS1hMDcxLWIwM2M4MGYzYWMzYiJ9)
-- [Presentation]()
+- [Presentation](https://www.canva.com/design/DAFpEERv9Yw/lm7TQMLp1v8LCzBtL_yRIA/view#4)
 
 
 **Duration** <br>
