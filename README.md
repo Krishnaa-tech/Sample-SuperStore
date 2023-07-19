@@ -21,5 +21,6 @@ The repository contains the following files:
 
 </body>
 </html>
+<br>
 **Duration** <br>
 <ins>12.06.2023 to 24.07.2023</ins>(**_6 Weeks_**)
