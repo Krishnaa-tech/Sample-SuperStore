@@ -13,7 +13,7 @@ The repository contains the following files:
 </head>
 <body>
 
-<h1>My Report</h1>
+<h1>Dashboard</h1>
 
 <!-- This is the embed code for the report -->
 <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzYzZmJhZTItODE4NC00YjNkLWIyMTctYWJmZTViZDk3MThjIiwidCI6IjE5MWRkNjBkLTA5MGEtNDQ1OS1hMDcxLWIwM2M4MGYzYWMzYiJ9" frameborder="0" allowFullScreen="true"></iframe>
