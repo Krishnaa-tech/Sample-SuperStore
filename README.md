@@ -4,7 +4,7 @@ Applied different Visualization techniques on the dataset and used various libra
 The repository contains the following files:
 - [Dataset](https://github.com/Krishnaa-tech/Sample-SuperStore/blob/b4227aacc4ad5b0129f6f07c95c240e0f2642430/SampleSuperstore.csv)
 - [Code file](https://github.com/Krishnaa-tech/Sample-SuperStore/blob/b4227aacc4ad5b0129f6f07c95c240e0f2642430/SuperStore.ipynb)
-- [Dashboard](https://github.com/Krishnaa-tech/Sample-SuperStore/blob/139339d1d7018dc78b62b645dbc96abddf647142/dashboard.html)
+- [Dashboard](https://github.com/Krishnaa-tech/Sample-SuperStore/blob/9eeeb9d9e883b5f3c625089543ed96f31ae54be3/dashboard.html)
 - [Presentation]()
   
 **Duration** <br>
